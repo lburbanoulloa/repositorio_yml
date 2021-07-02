@@ -10,7 +10,7 @@ spring:
       naming.physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
  
 server:
-  port: 7000
+  port: 8000
 eureka:
   client:
     serviceUrl:
